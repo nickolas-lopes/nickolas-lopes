@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Fatec Diadema's student<br>- Software developer</p>
+<p align="left">- Fatec Diadema's student<br><br>- 🎓 Software Development Student | 👨‍💻 Junior developer exploring HTML, CSS, JavaScript, and more | Always learning.</p>
 
 ###
 
